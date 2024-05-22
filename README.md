@@ -20,12 +20,11 @@ To install PushSwap, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-  git@github.com:Sebrani-Aymane/push_swap42.git
+   git@github.com:Sebrani-Aymane/push_swap42.git
   Navigate to the project directory:
 
 bash
-
-cd pushswap
+   cd pushswap
 
 Compile the code:
 
