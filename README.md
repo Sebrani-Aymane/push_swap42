@@ -1,6 +1,5 @@
 # PushSwap
 
-![PushSwap Logo](pushswap_logo.png)
 
 PushSwap is a sorting algorithm project that efficiently sorts a stack of integers using a limited set of instructions.
 
